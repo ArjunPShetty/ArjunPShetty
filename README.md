@@ -3,7 +3,7 @@
 <h3><code>A Passionate Developer</code></h3>
 
 <p align="center">
-  I  am arjun
+  I  am arjun p 
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/935bdf45-5de0-4624-acfb-681f4a20035d" />
