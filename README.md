@@ -1,11 +1,6 @@
 <h1 align="center">👋 Hey there, I'm Arjun P Shetty</h1>
 
 <h3><code>A Passionate Developer</code></h3>
-
-<p align="center">
-I am an Electronics and Communication Engineer with a strong passion for Digital and Analog circuit design. I enjoy building and debugging hardware systems, working hands-on with FPGA boards, designing RTL using Verilog, and experimenting with embedded systems. I’m also deeply interested in ASIC design flows, SoC development, signal processing, and creating optimized, high-performance digital architectures. I love learning through practical implementation, simulations, and hands on experiment with new hardware design tools.
-
-<p align="center">
   <img src="https://github.com/user-attachments/assets/935bdf45-5de0-4624-acfb-681f4a20035d" />
 </p>
 
