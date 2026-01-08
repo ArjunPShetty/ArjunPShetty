@@ -1,7 +1,6 @@
-<h1 align="center">👋 Hey there, I'm Arjun P Shetty</h1>
+<h1 align="center"> Hey there, I'm Arjun P Shetty</h1>
   <img src="https://github.com/user-attachments/assets/935bdf45-5de0-4624-acfb-681f4a20035d" />
 </p>
-## 🧰 &nbsp;My Toolbox
 <p align="center">
   <img width="750px" src="https://skillicons.dev/icons?i=c,cpp,py,github,arduino,mongodb,linux,docker&theme=dark&perline=12" alt="skills" />
 </p> 
