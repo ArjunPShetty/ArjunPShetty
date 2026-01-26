@@ -6,7 +6,7 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-streak-stats-kv.vercel.app?user=ArjunPShetty&hide_border=true&background=182B35&ring=00df82&fire=00df82&currStreakNum=f1f1f1&currStreakLabel=fb0&sideNums=00df82&sideLabels=a9cbc3&dates=fb0" 
+    src="https://github-readme-streak-stats-kv.vercel.app?user=ArjunPShetty&hide_border=true&background=0d1117&ring=5BCDEC&fire=5BCDEC&currStreakNum=f1f1f1&currStreakLabel=5BCDEC&sideNums=5BCDEC&sideLabels=5BCDEC&dates=5BCDEC" 
     width="70%" 
     alt="ArjunPShetty GitHub Streak Stats"
   />
