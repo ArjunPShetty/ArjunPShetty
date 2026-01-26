@@ -1,12 +1,8 @@
-### About Me
-
 <h1 align="center">👋 Hey there, I'm Arjun P Shetty</h1>
-
----
 
 <p align="center">
   <img 
-    src="https://github-readme-streak-stats-kv.vercel.app?user=ArjunPShetty&hide_border=true&background=0d1117&ring=5BCDEC&fire=5BCDEC&currStreakNum=f1f1f1&currStreakLabel=5BCDEC&sideNums=5BCDEC&sideLabels=5BCDEC&dates=5BCDEC" 
+    src="https://github-readme-streak-stats-kv.vercel.app?user=ArjunPShetty&hide_border=true&background=0d1117&ring=5BCDEC&fire=5BCDEC&currStreakNum=CFCFCD&currStreakLabel=5BCDEC&sideNums=CFCFCD&sideLabels=5BCDEC&dates=CFCFCD" 
     width="70%" 
     alt="ArjunPShetty GitHub Streak Stats"
   />
