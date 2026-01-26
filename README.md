@@ -4,9 +4,9 @@
 
 ---
 
-## GitHub Stats
-
+<p align="center">
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ArjunPShetty?cardType=level&theme=dark&preferLogin=false)](https://git.io/awesome-stats-card)
+</p>
 
 <p align="center">
   <img 
@@ -17,7 +17,5 @@
 </p>
 
 ---
-
-## Activity
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ArjunPShetty&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&hide_border=true)
