@@ -1,4 +1,4 @@
-<h1 align="center" style="color: #4CAF50;">👋 Hey there, I'm Arjun P Shetty</h1>
+<h1 align="center" style="color: #5BCDEC;">👋 Hey there, I'm Arjun P Shetty</h1>
 
 
 <p align="center">
