@@ -1,11 +1,4 @@
-<h1 align="center">
-  <span style="background: linear-gradient(90deg, #00c6ff, #0072ff);
-               -webkit-background-clip: text;
-               -webkit-text-fill-color: transparent;
-               font-weight: 800;">
-    👋 Hey there, I'm Arjun P Shetty
-  </span>
-</h1>
+<h1 align="center">👋 Hey there, I'm Arjun P Shetty</h1>
 
 
 <p align="center">
