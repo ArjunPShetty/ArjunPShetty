@@ -1,6 +1,7 @@
-<h1 align="center" style="color:#00FFAB;">
-  👋 Hey there, I'm Arjun P Shetty
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&color=58A6FF&center=true&vCenter=true&width=600&lines=👋+Hey+there,+I'm+Arjun+P+Shetty" />
+</p>
+
 
 
 <p align="center">
