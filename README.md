@@ -2,7 +2,7 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-streak-stats-kv.vercel.app?user=ArjunPShetty&hide_border=true&background=0d1117&ring=5BCDEC&fire=5BCDEC&currStreakNum=CFCFCD&currStreakLabel=5BCDEC&sideNums=D1D2F9&sideLabels=5BCDEC&dates=D1D2F9" 
+    src="https://github-readme-streak-stats-kv.vercel.app?user=ArjunPShetty&hide_border=true&background=0d1117&ring=5BCDEC&fire=5BCDEC&currStreakNum=CFCFCD&currStreakLabel=5BCDEC&sideNums=CFCFCD&sideLabels=5BCDEC&dates=5BCDEC" 
     width="70%" 
     alt="ArjunPShetty GitHub Streak Stats"
   />
